@@ -1,7 +1,6 @@
-id=MRX7014
-name= Device Model To S24 Ultra
-version=
+id=S24Ultra_Spoofer
+name=S24Ultra Spoofer
+version=v1.0.0
 versionCode=1
-author=By MRX7014
-description= Change The Device Model To S24 Ultra
-
+author=@MRX7014
+description=Spoof Your Device as S24 Ultra by Changing Device Model To SM-S928B
