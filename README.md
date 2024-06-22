@@ -16,6 +16,4 @@
 
 - Install it Via Magisk or KernelSU
 
-**if you have another device like Xiaomi,Realme,OPPO and want to spoof your device as a flagship device from your brand you can request this from issues**
-
-**Credits:MRX7014**
+if you have another device like Xiaomi,Realme,OPPO and want to spoof your device as a flagship device from your brand you can request this from issues
