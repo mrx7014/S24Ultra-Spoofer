@@ -30,7 +30,6 @@ ro.soc.model=SM8650-AC
 ro.gpu.model=Adreno750
 ro.gpu=Adreno750
 ro.hardware.chipname=Pineapple
-ro.build.version.oneui=60101
 # end common build properties
 
 # begin PRODUCT_BOOTIMAGE_PROPERTIES
