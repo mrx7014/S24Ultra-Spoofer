@@ -3,11 +3,11 @@ plugins {
 }
 
 android {
-    namespace 'com.mrx7014.s26uspoofer'
+    namespace 'com.mrx7014.1ui8spoofer'
     compileSdk 34
 
     defaultConfig {
-        applicationId "com.mrx7014.s26uspoofer"
+        applicationId "com.mrx7014.1ui8spoofer"
         minSdk 29
         targetSdk 34
         versionCode 100
