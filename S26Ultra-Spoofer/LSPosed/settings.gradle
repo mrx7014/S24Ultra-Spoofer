@@ -13,5 +13,5 @@ dependencyResolutionManagement {
         maven { url 'https://api.xposed.info'}
     }
 }
-rootProject.name = "S26Ultra-Spoofer"
+rootProject.name = "OneUI 8.0 Spoofer"
 include ':app'
